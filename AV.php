@@ -8,6 +8,7 @@ include 'AVPush.php';
 include 'AVGeoPoint.php';
 include 'AVACL.php';
 include 'AVCloud.php';
+include 'AVStatistics.php';
 
 class AVRestClient{
 
